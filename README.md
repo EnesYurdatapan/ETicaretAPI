@@ -45,9 +45,9 @@ This project is a web application built on **.NET Core 6.0**. It utilizes the fo
 **Endpoint Pictures**
 
 
-![](wwwroot/photo-images/ss1.png)
-![](wwwroot/photo-images/ss2.png)
-![](wwwroot/photo-images/ss3.png)
+![](presentation/ETicaretAPI.API/wwwroot/photo-images/ss1.png)
+![](presentation/ETicaretAPI.API/wwwroot/photo-images/ss2.png)
+![](presentation/ETicaretAPI.API/wwwroot/photo-images/ss3.png)
 
 
 
